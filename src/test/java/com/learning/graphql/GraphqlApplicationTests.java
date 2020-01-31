@@ -9,5 +9,9 @@ class GraphqlApplicationTests {
 	@Test
 	void contextLoads() {
 	}
+	
+	@Test
+	void contextLoadsrr() {
+	}
 
 }
