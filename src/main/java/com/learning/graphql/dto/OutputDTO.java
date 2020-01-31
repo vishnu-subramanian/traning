@@ -6,6 +6,8 @@ public class OutputDTO {
 	String output;
 	
 	String error;
+	
+	String issueNo;
 
 	public String getOutput() {
 		return output;
